@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @MohamedIbrahimElsalamony
+- 👋 Hi, I’m Mohamed Ibrahim Elsalamony
+- 🙋 I am experice around 13 years in development field into Different areas.
+- 🙋 I am currently working as Technical Team Lead , Agile Scrum Master.
 - 👀 I’m interested in new challenge , new technology,
 Complex problem solving , advanced database algorithms mechanism
 - 🌱 I’m currently learning high level managerial courses,
